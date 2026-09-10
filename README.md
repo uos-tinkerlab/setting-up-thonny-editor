@@ -18,7 +18,7 @@ In the window that appears, select "MicroPython (Raspberry Pi Pico)" from the dr
 
     <img src="image-1.png" width = "90%">
     
-    If you don't see this, your Pi Pico may have no firmware or the wrong firmware. Ask for help or follow [this guide](../installing-firmware-on-pi-pico-2-w\installing-firmware-on-pi-pico-2-w.md) to install the firmware.
+    If you don't see this, your Pi Pico may have no firmware or the wrong firmware. Ask for help or follow [this guide](https://github.com/uos-tinkerlab/installing-firmware-on-pi-pico-2-w) to install the firmware.
 
 
 
