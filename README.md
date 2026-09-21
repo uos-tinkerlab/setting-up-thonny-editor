@@ -2,6 +2,7 @@
 1. Carefully plug the micro USB cable into your laptop and the Pi Pico.
 
     <img src="picopluggedin.jpg" width="50%">
+    CHANGE THE IMAGE
 
 2. We need a development environment to write our code in and upload it to the Pico. Download the portable version of [Thonny IDE](https://github.com/thonny/thonny/releases/download/v5.0.0/thonny-5.0.0-windows-portable-x64.zip) which lets us write code in MicroPython (A cutdown version of Python designed to run on microcontrollers).
 
