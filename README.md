@@ -7,7 +7,7 @@
 Thonny lets us write code in MicroPython (A cutdown version of Python designed to run on microcontrollers).
 
 
-3. Go into the downloaded folder, double click on the installed file and install the program.
+3. Go into the downloaded folder, double click on the downloaded file and install the program.
 
 4. At the top of Thonny, click "Run" ➡️ "Configure interpreter...".  
 In the window that appears, select "MicroPython (Raspberry Pi Pico)" from the drop down and then click "ok".
