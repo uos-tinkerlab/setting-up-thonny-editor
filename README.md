@@ -1,9 +1,9 @@
-# Setting up Thonny editor
+# Setting up Thonny Editor
 1. Carefully plug the micro USB cable into your laptop and the Pi Pico mounted on the breadboard.
 
     <img src="PXL_20260928_130722073.jpg" width="50%">
 
-2. We need a development environment to write our code in and upload it to the Pico. Download the portable version of Thonny IDE from [this website](https://thonny.org/). If you are on a Uni laptop make sure to download the Portable variant.
+2. We need a development environment to write our code in and upload it to the Pico. Download the Thonny IDE from [this website](https://thonny.org/). If you are on a Uni laptop make sure to download the Portable variant.
 Thonny lets us write code in MicroPython (A cutdown version of Python designed to run on microcontrollers).
 
 
